@@ -1,0 +1,17 @@
+/home/matheuspadilha/mvpadilha/Courses/selenium/java-automation-fundamentals/src/main/java/br/rs/matheuspadilha/pages/ContasPage.java
+/home/matheuspadilha/mvpadilha/Courses/selenium/java-automation-fundamentals/src/main/java/br/rs/matheuspadilha/pages/MovimentacaoPage.java
+/home/matheuspadilha/mvpadilha/Courses/selenium/java-automation-fundamentals/src/main/java/br/rs/matheuspadilha/tests/RemoverMovimentacaoContaTest.java
+/home/matheuspadilha/mvpadilha/Courses/selenium/java-automation-fundamentals/src/main/java/br/rs/matheuspadilha/core/Propriedades.java
+/home/matheuspadilha/mvpadilha/Courses/selenium/java-automation-fundamentals/src/main/java/br/rs/matheuspadilha/tests/ContaTest.java
+/home/matheuspadilha/mvpadilha/Courses/selenium/java-automation-fundamentals/src/main/java/br/rs/matheuspadilha/pages/LoginPage.java
+/home/matheuspadilha/mvpadilha/Courses/selenium/java-automation-fundamentals/src/main/java/br/rs/matheuspadilha/tests/MovimentacaoTest.java
+/home/matheuspadilha/mvpadilha/Courses/selenium/java-automation-fundamentals/src/main/java/br/rs/matheuspadilha/core/DriverFactory.java
+/home/matheuspadilha/mvpadilha/Courses/selenium/java-automation-fundamentals/src/main/java/br/rs/matheuspadilha/core/BaseTest.java
+/home/matheuspadilha/mvpadilha/Courses/selenium/java-automation-fundamentals/src/main/java/br/rs/matheuspadilha/pages/HomePage.java
+/home/matheuspadilha/mvpadilha/Courses/selenium/java-automation-fundamentals/src/main/java/br/rs/matheuspadilha/core/BasePage.java
+/home/matheuspadilha/mvpadilha/Courses/selenium/java-automation-fundamentals/src/main/java/br/rs/matheuspadilha/suites/SuiteGeral.java
+/home/matheuspadilha/mvpadilha/Courses/selenium/java-automation-fundamentals/src/main/java/br/rs/matheuspadilha/pages/MenuPage.java
+/home/matheuspadilha/mvpadilha/Courses/selenium/java-automation-fundamentals/src/main/java/br/rs/matheuspadilha/utils/DataUtils.java
+/home/matheuspadilha/mvpadilha/Courses/selenium/java-automation-fundamentals/src/main/java/br/rs/matheuspadilha/tests/ResumoTest.java
+/home/matheuspadilha/mvpadilha/Courses/selenium/java-automation-fundamentals/src/main/java/br/rs/matheuspadilha/tests/SaldoTest.java
+/home/matheuspadilha/mvpadilha/Courses/selenium/java-automation-fundamentals/src/main/java/br/rs/matheuspadilha/pages/ResumoPage.java
